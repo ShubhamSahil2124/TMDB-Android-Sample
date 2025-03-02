@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="movie_genre">Genre</string>
+    <string name="movie_search">Search movie by name.</string>
+    <string name="movie_title">Movie title</string>
+    <string name="movie_img_description">movie banner picture</string>
+    <string name="heart_icon_description">heart icon</string>
+    <string name="star_icon_description">star icon</string>
+    <string name="movie_rating">%</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="users_avaluation">Avaliação dos usuários</string>
+    <string name="synopsis">Sinopse</string>
+    <string name="cast">Cast</string>
+    <string name="movie_synopsis">movie synopsis</string>
+    <string name="duration">duration</string>
+    <string name="role">role</string>
+    <string name="person_name">Name</string>
+    <string name="year_released">released year</string>
+    <string name="users_rating_txt">Ratings</string>
+    <string name="age_restriction">parental guidance</string>
+    <string name="movie_not_found">No Result Found</string>
+    <string name="couldnt_find">Could not find.</string>
+    <string name="floating_btn_description">return to previous page button</string>
+    <string name="movie_poster_description">movie poster</string>
+    <string name="star_rating_description">star rating</string>
+    <string name="search_button_description">search button</string>
+    <string name="search_mode">Search Mode</string>
+    <string name="return_to_home">Return To Home</string>
+</resources>
